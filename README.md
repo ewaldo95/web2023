@@ -1,2 +1,2 @@
 # web2023
-Web2023
+Hallo, hier sind Ewaldo und Joanna. Wir wollen einen Webshop erstellen. 
